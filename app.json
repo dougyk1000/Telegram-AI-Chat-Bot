@@ -1,6 +1,6 @@
 {
-    "name": "Telegram Ai Chat Bot",
-    "description": "This is an Open Ai Chat Gpt Telegram AI bot created by mr nima.",
+    "name": "Project Steel",
+    "description": "This is an Open Ai Chat Gpt Telegram AI bot created by Dougyk1000.",
     "repository": "https://github.com/DarkMakerofc/TELEGRAM-AI-BOT",
     "logo": "https://telegra.ph/file/7e4a883eab0f96664798e.jpg",
     "keywords": [
@@ -17,12 +17,12 @@
         "OWNER_USER_NAME": {
             "description": "Type if your Telegram User Name \n Example : @MR_NIMA_OFC_YT",
             "required": true,
-            "value": "@MR_NIMA_OFC_YT"
+            "value": "@dougyk1000"
         },
         "BOT_NAME": {
             "description": "Type if your Telegram Bot Name.",
             "required": true,
-            "value": "⚕ Nima's Telegram AI Chat Bot ⚕"
+            "value": "⚕ Project Steel ⚕"
         }
     },
     "buildpacks": [
